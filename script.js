@@ -75,6 +75,7 @@
 // console.log(b);
 
 // access and change any array
+
 // let a=[2,3,4,"sanket",false];
 //  console.log(a);
 // console.log(a[2]);
